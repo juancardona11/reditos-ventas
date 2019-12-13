@@ -1,0 +1,19 @@
+{
+  "name": "reditos-db-ventas",
+  "version": "1.0.0",
+  "description": "Base de datos de ventas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan cardona",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.4.0",
+    "mongoose": "^5.8.0"
+  }
+}
